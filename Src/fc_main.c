@@ -25,6 +25,7 @@ int main(void)
 {
   // Configure borad
   // New comment
+  // Second comment
   InitBoard();
   
   // Enable global interrupts

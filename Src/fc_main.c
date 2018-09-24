@@ -24,6 +24,7 @@ void WriteReport(void);
 int main(void)
 {
   // Configure borad
+  // New comment
   InitBoard();
   
   // Enable global interrupts
